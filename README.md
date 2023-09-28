@@ -1,4 +1,4 @@
-<h2 align="left">"Hello, I'm YASH PATLE, a INDEPENDENT PROGRAMMER . Nice to e-meet you!" 😊</h2>
+<h2 align="left">"Hello, I'm YASH PATLE, a INDEPENDENT PROGRAMMER . Nice to meet you!" 😊</h2>
 
 ###
 
